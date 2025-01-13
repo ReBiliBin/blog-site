@@ -1,9 +1,7 @@
-```yaml
 ---
 title: "Start with Jekyll"
 date: 2025-01-13 18:46:00 +0800
 ---
-```
 
 Let's start the blog.
 
