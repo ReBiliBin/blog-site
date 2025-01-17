@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6b4d8f85e24289",
+        "id": "d2e6c0257374df08",
         "type": "tabs",
         "children": [
           {
-            "id": "698bfeee43e0fc78",
+            "id": "c445c18f49095ef7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -158,7 +154,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "698bfeee43e0fc78",
+  "active": "c445c18f49095ef7",
   "lastOpenFiles": [
     "_posts/2025-01-18-first-blog.md",
     "_posts/2025-01-13-start-with-jekyll.md",
