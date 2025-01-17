@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "99eca7d34671b2fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6b4d8f85e24289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "698bfeee43e0fc78",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcf7c526c473092c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6855fd38ceeb2b2a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "8317bd08e102f08a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "5d3f49aa0e651456",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "fa9950598f65f7d8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "41f886d22e5cd3de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "189832dd2c7735d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "未命名.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "98ebc3b8c2e7fea1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "未命名.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "bb6cfdb5e4bc3a4b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "未命名.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "aa2ee7beb59e9c38",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "698bfeee43e0fc78",
+  "lastOpenFiles": [
+    "_posts/2025-01-18-first-blog.md",
+    "_posts/2025-01-13-start-with-jekyll.md",
+    "_posts/2019-08-11-customize-the-favicon.md",
+    "_posts/2019-08-09-getting-started.md",
+    "_posts/2019-08-08-write-a-new-post.md",
+    "_posts/2019-08-08-text-and-typography.md",
+    "README.md",
+    "未命名.md"
+  ]
+}
