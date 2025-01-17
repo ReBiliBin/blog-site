@@ -1,5 +1,5 @@
 ---
-title: 真正的第一篇博客
+title: The First of All
 date: 2025-01-18 01:12:00 +0800
 tags:
   - started
